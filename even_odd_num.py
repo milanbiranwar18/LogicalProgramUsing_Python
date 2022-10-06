@@ -5,4 +5,5 @@ def even_odd_num():
     else:
         print(num, "is a odd number")
 
+
 even_odd_num()
